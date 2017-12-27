@@ -1,5 +1,5 @@
 # xml_split_to_json
-A sample to split large xml file and encode the split xml array
+A sample to split large xml file and encode the split xml array. Most sample codes of using xml-split are for the smaller XML files. If you are dealing with extremely large XML files, you can take a look at this one. 
 
 ## Prerequisites
 - Node JS 4 or above
